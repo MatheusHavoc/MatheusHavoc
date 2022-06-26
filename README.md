@@ -1,11 +1,7 @@
 ### "Olá, seja bem-vindo sou Matheus bandeira"
-##
-<div> 
-<a href = "matheusbcdemo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a> 
-</div> 
 
 ##
-## 🔍🪛 ** language e Toolkit :** 🔍🪛 
+## 🔍🪛 ** language e Toolkit :** 🔍🪛
  
  #### ⌨️🖱️👨‍💻 Diário: 
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 

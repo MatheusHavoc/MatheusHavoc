@@ -26,13 +26,6 @@
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau) 
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R) 
  
-##
-<div align="center">  <a href="https://github.com/MatheusHavoc">  
-
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusHavoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHavoc&layout=compact&langs_count=7&theme=dark"/> 
-</div>
   
   
  

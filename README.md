@@ -1,4 +1,3 @@
-Markdown 
 ### "Olá, seja bem-vindo sou Matheus bandeira"
 ### Contato
 
@@ -42,3 +41,22 @@ Markdown
 
 ##
  
+## PROJETOS:
+
+#### O Relatório CRISP-DM estará disponível no início do código ou em desenvolvimento, fornecendo informações abrangentes sobre os objetivos ou do negócio.
+
+## Analise descritiva, exploratoria e inferencial:
+
+- [Banco Taiwan](https://colab.research.google.com/github/MatheusHavoc/Credito_Bancario/blob/main/Cr%C3%A9ditoBanc%C3%A1rio.ipynb)
+- [walmart](https://colab.research.google.com/github/MatheusHavoc/walmart/blob/main/walmart24(1).ipynb)
+- [Voos Nova Iorque](https://colab.research.google.com/github/MatheusHavoc/NyFlights/blob/main/NYF.ipynb)
+- [Salários EUA em dados](https://colab.research.google.com/github/MatheusHavoc/Data-Science-Jobs-Salaries/blob/main/Data_Science_Jobs_Salaries.ipynb)
+
+## Análise preditiva e prescritiva: 
+- [classificação - agricultura ](https://colab.research.google.com/github/MatheusHavoc/Classificacao_Agricultura/blob/main/Classificacao_Agricultura.ipynb)
+- [classificação - leite ](https://colab.research.google.com/github/MatheusHavoc/Classificao_Predicao-_Milk/blob/main/Classificao_Predi%C3%A7%C3%A3o_Milk.ipynb)
+- [classificação - imoveis](https://colab.research.google.com/github/MatheusHavoc/Roof_Imoveis-/blob/main/Roof_Im%C3%B3veis_.ipynb)
+
+## Outros modelos:
+- [Web Scrapping](https://colab.research.google.com/github/MatheusHavoc/Web_Scrapping/blob/main/mercado_livre_scrapping.ipynb)
+- [Data Cleaning - Airbnb](https://colab.research.google.com/github/MatheusHavoc/Airbnb-NYC-2019/blob/main/Data_Cleaning_Airbnb.ipynb)

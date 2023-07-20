@@ -3,8 +3,9 @@ Markdown
 ### Contato
 
 [![whas](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547988667443)
-
+[![sITE](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheusbcdemo.wixsite.com/website)
 ##
+
 
  #### Diário: 
  ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
@@ -40,6 +41,4 @@ Markdown
  ![Tableau](	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 
 ##
-![tela1](https://github-readme-stats.vercel.app/api/top-langs/?username={MatheusHavoc}&theme=blue-green) 
-
-
+ 

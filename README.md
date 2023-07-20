@@ -1,31 +1,45 @@
+Markdown 
 ### "Olá, seja bem-vindo sou Matheus bandeira"
+### Contato
+
+[![whas](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547988667443)
 
 ##
-## 🔍🪛 ** language e Toolkit :** 🔍🪛
- 
- #### ⌨️🖱️👨‍💻 Diário: 
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL) 
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git) 
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github) 
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) 
- 
 
-#### 🔬⚗️🔍 Ciência de dados: 
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas) 
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy) 
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn) 
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter) 
- ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly) 
+ #### Diário: 
+ ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+ ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 
-#### 🧑‍💻🖥️ toolkit em desenvolvimento: 
- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins) 
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb) 
- ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku) 
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI) 
- ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau) 
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R) 
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+ ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+ ![ jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
  
-  
-  
+ ![ Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ ![Jupyter](	https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+##
+
  
+#### SQL:
+
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+
+##
+  
+#### Ciência de dados: 
+ ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
+ ![Numpy](	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
+ ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+ ![Plotly](	https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+##
+####  BI: 
+ ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
+ ![Tableau](	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+
+##
+![tela1](https://github-readme-stats.vercel.app/api/top-langs/?username={MatheusHavoc}&theme=blue-green) 
+
+

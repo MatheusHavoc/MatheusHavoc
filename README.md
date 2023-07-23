@@ -55,7 +55,7 @@
 ## Análise preditiva e prescritiva: 
 - [classificação - agricultura ](https://colab.research.google.com/github/MatheusHavoc/Classificacao_Agricultura/blob/main/Classificacao_Agricultura.ipynb)
 - [classificação - leite ](https://colab.research.google.com/github/MatheusHavoc/Classificao_Predicao-_Milk/blob/main/Classificao_Predi%C3%A7%C3%A3o_Milk.ipynb)
-- [classificação - imoveis](https://colab.research.google.com/github/MatheusHavoc/Roof_Imoveis-/blob/main/Roof_Im%C3%B3veis_.ipynb)
+- [Modelo de Regressão - imoveis](https://colab.research.google.com/drive/1VKChAx_XGqJgxi2arWBvFqYrsAQhrC4o?usp=sharing)
 
 ## Outros modelos:
 - [Web Scrapping](https://colab.research.google.com/github/MatheusHavoc/Web_Scrapping/blob/main/mercado_livre_scrapping.ipynb)

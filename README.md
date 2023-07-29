@@ -53,7 +53,7 @@
 - [Salários EUA em dados](https://colab.research.google.com/github/MatheusHavoc/Data-Science-Jobs-Salaries/blob/main/Data_Science_Jobs_Salaries.ipynb)
 
 ## Análise preditiva e prescritiva: 
-- [classificação - agricultura ](https://colab.research.google.com/github/MatheusHavoc/Classificacao_Agricultura/blob/main/Classificacao_Agricultura.ipynb)
+- [classificação - agricultura ](https://colab.research.google.com/drive/1ff1XqIVkNYfza8qJJI-UyNx1-cp9ZaZC?usp=sharing)
 - [classificação - leite ](https://colab.research.google.com/github/MatheusHavoc/Classificao_Predicao-_Milk/blob/main/Classificao_Predi%C3%A7%C3%A3o_Milk.ipynb)
 - [Modelo de Regressão - imoveis](https://colab.research.google.com/drive/1VKChAx_XGqJgxi2arWBvFqYrsAQhrC4o?usp=sharing)
 

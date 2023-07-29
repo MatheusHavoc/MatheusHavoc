@@ -1,7 +1,7 @@
 ### "Olá, seja bem-vindo sou Matheus Bandeira"
 
 
-    Sou um profissional apaixonado por tecnologia e dados, com formação em Análise e Desenvolvimento de Sistemas e atualmente cursando Especialização em Data Science e BI. Minha jornada acadêmica me permitiu explorar diferentes áreas da tecnologia, e encontrei minha paixão na análise de dados.
+Sou um profissional apaixonado por tecnologia e dados, com formação em Análise e Desenvolvimento de Sistemas e atualmente cursando Especialização em Data Science e BI. Minha jornada acadêmica me permitiu explorar diferentes áreas da tecnologia, e encontrei minha paixão na análise de dados.
 
 **Contato:**
 

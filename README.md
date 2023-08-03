@@ -50,7 +50,7 @@ Sou um profissional apaixonado por tecnologia e dados, com formação em Anális
   
   Análise de dados do setor bancário de Taiwan, com foco em compreender o comportamento dos clientes e identificar oportunidades de melhorias para o banco
 
-- [Walmart](https://colab.research.google.com/github/MatheusHavoc/walmart/blob/main/walmart24(1).ipynb)
+- [Walmart](https://colab.research.google.com/drive/1JLP5pSMj7e85GBpaC4adowPVRgAZDXME?usp=sharing)
   
     Projeto de análise de dados do Walmart, explorando padrões de vendas, tendências de consumo e insights para otimizar a gestão de estoque e aumentar a eficiência das operações
 
